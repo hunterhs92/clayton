@@ -1,0 +1,6 @@
+1. Ae tạo file data.txt để lưu query va proxy.txt để lưu proxy nhé.
+    data định dạng: user=%7B%22id%22%3A8137830160%2C%22first_name%22%3A%22Ph%E1%BA%A1m%20Th%C3%A0nh%20Quy%E1%BA%BFt%22%2C%22last_nam......
+    proxy định dạng: 173.211.30.172:6606:tài_khoản:mật_khẩu
+    Nếu ae đang có iframe ở dạng full gồm cả http://... thì copy iframe vào file iframe.txt rồi chạy file run_if_to_query.bat để conver sang định dạng query chuẩn nhé. Kết quả sẽ lưu trong file decode_data.txt (tool chạy bằng python nên máy bác nào chưa cài python thì download về cài nhé: https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe)
+
+2. Sau khi chỉnh data + proxy ok xong thì ae chạy file run.bat sau đó gửi key cho @nora24320 hoặc team https://t.me/thicautu để kích hoạt
